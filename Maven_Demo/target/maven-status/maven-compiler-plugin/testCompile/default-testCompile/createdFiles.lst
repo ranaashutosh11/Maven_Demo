@@ -1,3 +1,5 @@
+com\lti\demo\ParamTest.class
+com\lti\suitTest\SuitTest.class
 com\lti\demo\BeforeAfterTest.class
 com\lti\demo\CalculatorTest.class
 com\lti\demo\TestAssumptions.class
